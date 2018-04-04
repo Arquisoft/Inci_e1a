@@ -1,6 +1,3 @@
-[submodule "^C"]
-	path = ^C
-	url = https://github.com/Arquisoft/InciManager_e1a.git
 [submodule "InciManager_e1a"]
 	path = InciManager_e1a
 	url = https://github.com/Arquisoft/InciManager_e1a.git
