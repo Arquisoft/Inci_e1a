@@ -26,6 +26,5 @@ César Álvarez Rubio | [cesaralvarez97](https://github.com/cesaralvarez97) | UO
 David Chillón Sánchez | [DavidChillonSanchez](https://github.com/DavidChillonSanchez) | UO250678
 David Rico Díaz | [UO250898](https://github.com/UO250898) | UO250898
 Fernando del Barrio Romano | [fernandodelBarrio](https://github.com/fernandodelBarrio) | UO252367 
-Joaquín Ceballos gómez | [joaquinceballos](https://github.com/joaquinceballos) | UO250687
 Paula Claro Heres | [uo252315](https://github.com/uo252315) | UO252315
 Sergio Domínguez Cabrero | [Kibian](https://github.com/Kibian) | UO250788
