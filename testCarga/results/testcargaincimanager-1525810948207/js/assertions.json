@@ -1,0 +1,10 @@
+{
+  "simulation": "testCarga.TestCargaInciManager",
+  "simulationId": "testcargaincimanager",
+  "start": 1525810948207,
+  "description": "",
+  "scenarios": ["TestCargaInciManager"],
+  "assertions": [
+
+  ]
+}
