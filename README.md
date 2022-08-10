@@ -25,5 +25,5 @@ Nombre | usuario | UO
 César Álvarez Rubio | [cesaralvarez97](https://github.com/cesaralvarez97) | UO251069
 David Chillón Sánchez | [DavidChillonSanchez](https://github.com/DavidChillonSanchez) | UO250678
 Fernando del Barrio Romano | [fernandodelBarrio](https://github.com/fernandodelBarrio) | UO252367 
-Paula Claro Heres | [uo252315](https://github.com/uo252315) | UO252315
+Paula Claro Heres | [paula-clares](https://github.com/paula-clares) | UO252315
 Sergio Domínguez Cabrero | [Kibian](https://github.com/Kibian) | UO250788
